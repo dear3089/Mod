@@ -26,3 +26,4 @@ for row in zip(df['zone'],df['pm2.5']):
         print("%-5d %-30s %s"%(row[1],'Good',row[0],))
         #Good
 
+#test
