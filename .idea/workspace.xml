@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d87a92a4-3695-4172-b025-8f2692edd26a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d87a92a4-3695-4172-b025-8f2692edd26a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dear/dear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dear/dear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dear/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,24 +20,25 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/beeteerayut/Mod.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1YADVUupvyDsS5ptEWN5Yf2JUXH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test">
     <configuration name="lab2_1620706315" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mod" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,8 +60,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mod" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dear" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dear/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.lab2_1620706315" />
       </list>
     </recent_temporary>
@@ -75,15 +101,69 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="38" key="#Notifications" timestamp="1582380683593">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="232" y="38" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1582380683593" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1582380594818">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1582380594818" />
+    <state x="92" y="92" width="1096" height="576" key="DiffContextDialog" timestamp="1582380531398">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="92" y="92" width="1096" height="576" key="DiffContextDialog/0.0.1280.760@0.0.1280.760" timestamp="1582380531398" />
+    <state x="510" y="273" key="Github.ShareDialog" timestamp="1582381289057">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="510" y="273" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1582381289057" />
+    <state width="1259" height="188" key="GridCell.Tab.0.bottom" timestamp="1582380566397">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582380566397" />
+    <state width="1259" height="188" key="GridCell.Tab.0.center" timestamp="1582380566397">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1582380566397" />
+    <state width="1259" height="188" key="GridCell.Tab.0.left" timestamp="1582380566397">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1582380566397" />
+    <state width="1259" height="188" key="GridCell.Tab.0.right" timestamp="1582380566397">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582380566397" />
+    <state x="505" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582381308266">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="505" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1582381308266" />
+    <state x="371" y="171" key="git4idea.merge.GitPullDialog" timestamp="1582380959899">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="171" key="git4idea.merge.GitPullDialog/0.0.1280.760@0.0.1280.760" timestamp="1582380959899" />
   </component>
 </project>
