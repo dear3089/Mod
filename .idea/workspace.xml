@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d87a92a4-3695-4172-b025-8f2692edd26a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dear/dear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dear/dear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dear/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1582376528222</updated>
     </task>
+    <task id="LOCAL-00001" summary="'''''">
+      <created>1582381440941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582381440941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -124,15 +130,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'''''" />
+    <option name="LAST_COMMIT_MESSAGE" value="'''''" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="232" y="38" key="#Notifications" timestamp="1582380683593">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="232" y="38" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1582380683593" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1582380594818">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1582381575596">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1582380594818" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1582381575596" />
     <state x="92" y="92" width="1096" height="576" key="DiffContextDialog" timestamp="1582380531398">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -157,6 +167,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582380566397" />
+    <state x="232" y="113" key="Vcs.Push.Dialog.v2" timestamp="1582381584728">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="232" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1582381584728" />
     <state x="505" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582381308266">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
